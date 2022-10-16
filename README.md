@@ -12,7 +12,7 @@ Essayon d'ajouter quelques lignes de code
 
 
 
-![useful image]([image.png](https://www.image-net.org/index.php))
+![imagenet logo]([https://www.image-net.org/index.php](https://www.image-net.org/index.php))
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
