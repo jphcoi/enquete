@@ -2,10 +2,6 @@
 
 ## Introduction 
 
-
-
-## Introduction
-
 ### 1ere section
 
 Essayon d'ajouter quelques lignes de code
